@@ -13,7 +13,7 @@
   <li>🌱 I’m currently learning: <strong>DotNet Core & Azure</strong></li>
   <li>💬 Ask me about: <strong>Full Stack Developer</strong></li>
   <li>😄 Pronouns: <strong>He/Him</strong></li>
-  <li>⚡ Fun fact: <strong>I can debug code faster than I can cook a meal!</strong></li>
+  <li>⚡ Fun fact: <strong>I can debug code faster than I can watch movie!</strong></li>
 </ul>
 
 <!-- PAGE VIEW COUNTER -->
