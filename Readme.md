@@ -29,6 +29,9 @@
   <a href="https://www.instagram.com/p/DMiH8HLoC5f/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/jaimin-suthar12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <hr />
