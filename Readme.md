@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-black?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-black?style=flat-square&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=flat-square&logo=github&logoColor=white" />
 </p>
@@ -65,7 +65,8 @@
 <!-- FRAMEWORKS -->
 <h3>⚙️ Frameworks & Libraries</h3>
 <p>
-  <img src="https://img.shields.io/badge/Angular-black?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white" />
