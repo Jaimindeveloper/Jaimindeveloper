@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Jaimin</h1>
 
 <p align="center">
-  <strong>Nickname:</strong> Jaimin Suthar
+  <strong>Nickname:</strong> JS Developer
 </p>
 
 <p align="center">
