@@ -23,17 +23,11 @@
 
 <!-- SOCIAL LINKS (ALL BLACK) -->
 <p align="center">
-  <a href="https://developerayush.me" target="_blank">
+  <a href="https://jaimindeveloper.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/its.hardiksoni/" target="_blank">
+  <a href="https://www.instagram.com/p/DMiH8HLoC5f/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/imhardiksoni/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/imHardikSoni" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
 
