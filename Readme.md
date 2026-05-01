@@ -83,7 +83,7 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
 </p>
