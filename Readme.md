@@ -32,6 +32,12 @@
   <a href="https://www.linkedin.com/in/jaimin-suthar12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://jaiminthedeveloper.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://contra.com/jaimin_suthar_a9kdojv2/work" target="_blank">
+    <img src="https://img.shields.io/badge/contra-black?style=flat-square&logo=contra&logoColor=white" />
+  </a>
 </p>
 
 <hr />
