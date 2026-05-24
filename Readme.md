@@ -3,7 +3,7 @@
 # Hi 👋, I'm Jaimin Suthar
 <p>https://jaiminthedeveloper.vercel.app/</p>
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+Entrepreneur+%F0%9F%9A%80;Senior+Software+Engineer+%E2%9A%A1;9%2B+Years+of+Coding+Experience+%F0%9F%8E%AF;AI+%26+Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%8C%9F&font=Fira+Code&center=true&width=650&height=50&color=3ABEFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+Entrepreneur+%F0%9F%9A%80;Technical+Lead+%E2%9A%A1;11%2B+Years+of+Coding+Experience+%F0%9F%8E%AF;AI+%26+Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%8C%9F&font=Fira+Code&center=true&width=650&height=50&color=3ABEFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p>
