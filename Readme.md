@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Jaimin Suthar
-
+<p>https://jaiminthedeveloper.vercel.app/</p>
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+💻;Digital+Entrepreneur+🚀;Senior+Software+Engineer+⚡;9%2B+Years+of+Coding+Experience+🎯;AI+%26+Cloud+Solutions+Architect+☁️;Building+Scalable+Solutions+🌟&font=Fira+Code&center=true&width=650&height=50&color=3ABEFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Digital+Entrepreneur+%F0%9F%9A%80;Senior+Software+Engineer+%E2%9A%A1;9%2B+Years+of+Coding+Experience+%F0%9F%8E%AF;AI+%26+Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%8C%9F&font=Fira+Code&center=true&width=650&height=50&color=3ABEFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p>
@@ -22,6 +22,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jaimin-Suthar)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9406637/jaimin-suthar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jaiminsuthar/)
+[![LeetCode](https://img.shields.io/badge/contra-FFA116?style=for-the-badge&logo=contra&logoColor=black)](https://contra.com/jaimin_suthar_a9kdojv2/work)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jaimindeveloper&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -31,14 +32,7 @@
   <a href="https://github.com/jaimindeveloper?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/github/stars/jaimindeveloper?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star&label=Total%20Stars" alt="Total Stars" />
   </a>
-  <a href="https://jaiminthedeveloper.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://contra.com/jaimin_suthar_a9kdojv2/work" target="_blank">
-    <img src="https://img.shields.io/badge/contra-black?style=flat-square&logo=contra&logoColor=white" />
-  </a>
 </p>
-
 </div>
 
 ---
