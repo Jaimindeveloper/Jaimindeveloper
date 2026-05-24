@@ -31,6 +31,12 @@
   <a href="https://github.com/jaimindeveloper?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/github/stars/jaimindeveloper?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star&label=Total%20Stars" alt="Total Stars" />
   </a>
+  <a href="https://jaiminthedeveloper.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://contra.com/jaimin_suthar_a9kdojv2/work" target="_blank">
+    <img src="https://img.shields.io/badge/contra-black?style=flat-square&logo=contra&logoColor=white" />
+  </a>
 </p>
 
 </div>
