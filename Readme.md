@@ -155,7 +155,7 @@ const jaiminsuthar = {
 </div>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jaimindeveloper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <img src="https://mergecard.vercel.app/api/contrib?user=jaimindeveloper" alt="Top Contributed Repos" />
 </div>
 
 ---
