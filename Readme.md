@@ -51,7 +51,7 @@ const jaiminsuthar = {
 };
 ```
 
-- 🌱 I'm currently mastering **React, C# Advanced, PostgreSQL, MS SQL, AI, Python, AWS & Cloud Architecture**
+- 🌱 I'm currently mastering **Angular, Vue JS, React JS, Node JS, C# Advanced, ASP.NET, PostgreSQL, MS SQL, Mysql, AI, Python, AWS & Cloud Architecture**
 - 👨‍💻 All my projects are available at [GitHub Repositories](https://github.com/Jaimindeveloper?tab=repositories)
 - 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/jaimin-suthar12/recent-activity/all/)
 - 💬 Ask me about **Full Stack Development, Cloud Solutions, System Architecture, AI/ML Integration**
