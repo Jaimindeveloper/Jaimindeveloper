@@ -40,7 +40,7 @@
 ## 🚀 About Me
 
 ```typescript
-const shaniPatel = {
+const jaiminsuthar = {
     location: "Vadodara, India 📍",
     role: "Technical Lead",
     company: "Cygnet One",
